@@ -1,3 +1,8 @@
+#https://machinelearningmastery.com/keras-functional-api-deep-learning/
+#https://stackoverflow.com/questions/17718271/python-count-for-multidimensional-arrays-list-of-lists
+#https://deeplearning.vn/2018/01/10/nhan-dien-chu-viet-bang-keras-phan-1/
+#https://stackoverflow.com/questions/44747343/keras-input-explanation-input-shape-units-batch-size-dim-etc
+
 import csv
 import numpy as np
 import operator
