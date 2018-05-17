@@ -1,4 +1,5 @@
 https://medium.com/@jamsawamsa/running-a-google-cloud-gpu-for-fast-ai-for-free-5f89c707bae6
+    http://omg-it.works/how-to-grab-video-frames-directly-from-qcamera/#acceptLicense
 import numpy as np
 import glob
 import os
