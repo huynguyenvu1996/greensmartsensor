@@ -1,6 +1,7 @@
 https://medium.com/@jamsawamsa/running-a-google-cloud-gpu-for-fast-ai-for-free-5f89c707bae6
     http://omg-it.works/how-to-grab-video-frames-directly-from-qcamera/#acceptLicense
         https://stackoverflow.com/questions/43529229/dlib-static-lib-error-in-debug-mode
+            http://eitguide.net/su-dung-videocapture-trong-opencv/
 import numpy as np
 import glob
 import os
