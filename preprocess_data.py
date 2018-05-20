@@ -3,6 +3,20 @@ https://medium.com/@jamsawamsa/running-a-google-cloud-gpu-for-fast-ai-for-free-5
         https://stackoverflow.com/questions/43529229/dlib-static-lib-error-in-debug-mode
             http://eitguide.net/su-dung-videocapture-trong-opencv/
                 https://stackoverflow.com/questions/37462330/show-webcam-stream-from-opencv-with-qt
+                    
+                    
+#https://stackoverflow.com/questions/9360375/getting-error-for-ambiguous-symbol-and-need-help-to-remove-it
+#https://stackoverflow.com/questions/22840797/change-opencv-video-file-resolution
+#https://github.com/davisking/dlib/blob/master/examples/dnn_face_recognition_ex.cpp
+#https://github.com/kashimAstro/ofFaceRecognition/blob/master/src/ofFaceRecognition.h
+#http://dlib.net/webcam_face_pose_ex.cpp.html
+#http://dlib.net/imaging.html
+#https://stackoverflow.com/questions/36283368/video-face-detection-using-dlib
+#http://dlib.net/dnn_face_recognition_ex.cpp.html
+#https://stackoverflow.com/questions/43529434/video-record-using-opencv-and-qt
+#http://eitguide.net/su-dung-videocapture-trong-opencv/
+#https://stackoverflow.com/questions/37462330/show-webcam-stream-from-opencv-with-qt
+
 import numpy as np
 import glob
 import os
