@@ -18,6 +18,7 @@ https://medium.com/@jamsawamsa/running-a-google-cloud-gpu-for-fast-ai-for-free-5
 #https://stackoverflow.com/questions/37462330/show-webcam-stream-from-opencv-with-qt
 #https://stackoverflow.com/questions/17480984/qt-how-do-i-handle-the-event-of-the-user-pressing-the-x-close-button
 #http://doc.qt.io/qt-5/qtwidgets-mainwindows-application-example.html
+#http://www.bogotobogo.com/cplusplus/sockets_server_client_QT.php
 
 import numpy as np
 import glob
