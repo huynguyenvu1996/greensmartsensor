@@ -21,6 +21,7 @@ https://medium.com/@jamsawamsa/running-a-google-cloud-gpu-for-fast-ai-for-free-5
 #http://www.bogotobogo.com/cplusplus/sockets_server_client_QT.php
 #https://wrapbootstrap.com/theme/material-admin-responsive-admin-theme-WB011H985
 #https://scotch.io/tutorials/build-a-rest-api-with-django-a-test-driven-approach-part-1
+#http://www.bogotobogo.com/cplusplus/sockets_server_client_QT.php
 #https://docs.djangoproject.com/en/2.0/faq/general/#django-appears-to-be-a-mvc-framework-but-you-call-the-controller-the-view-and-the-view-the-template-how-come-you-don-t-use-the-standard-names
 
 import numpy as np
