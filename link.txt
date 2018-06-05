@@ -1,0 +1,9 @@
+https://stackoverflow.com/questions/3295268/where-should-utility-functions-live-in-django
+https://stackoverflow.com/questions/16160586/deploying-qt-application-using-qtmultimedia-in-release-mode
+https://stackoverflow.com/questions/39303008/load-an-opencv-video-frame-by-frame-using-pyqt
+http://www.paulvangent.com/2016/04/01/emotion-recognition-with-python-opencv-and-a-face-dataset/
+http://dlib.net/svm_ex.cpp.html
+https://stackoverflow.com/questions/5888870/how-do-i-compile-a-pyqt-script-py-to-a-single-standalone-executable-file-for
+https://ubuverse.com/embedding-the-python-interpreter-in-a-qt-application/
+https://github.com/oarriaga/face_classification
+http://www.bogotobogo.com/cplusplus/sockets_server_client_QT.php
