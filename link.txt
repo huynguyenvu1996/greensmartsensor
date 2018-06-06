@@ -21,5 +21,6 @@ https://stackoverflow.com/questions/28303334/multi-class-image-classification-wi
 https://stackoverflow.com/questions/37589635/opencv-svm-multiple-class-training-c
 http://answers.opencv.org/question/54482/train-multiclass-svm-for-car-plate-recognition/
 https://www.stdio.vn/articles/gioi-thieu-ve-mo-hinh-svm-436
+https://machinelearningcoban.com/2017/02/11/binaryclassifiers/
 
 
