@@ -24,3 +24,9 @@ https://www.stdio.vn/articles/gioi-thieu-ve-mo-hinh-svm-436
 https://machinelearningcoban.com/2017/02/11/binaryclassifiers/
 
 
+#07/07/2018
+https://github.com/rageappliedgame/EmotionDetectionAsset_CPP/blob/master/emotiondetection.cpp
+https://dspace.ou.nl/bitstream/1820/8247/1/D2.4%20%E2%80%93%20Final%20Bundle%20of%20Client-side%20Components.pdf
+http://rageproject.eu/
+
+
