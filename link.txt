@@ -33,3 +33,10 @@ http://rageproject.eu/
 #12/06/2018
 https://samiux.blogspot.com/2013/05/howto-tor-and-proxychains-on-ubuntu.html
 https://sbin.xyz/2017/12/20/chay-ung-dung-qua-nhieu-proxy-hoac-tor-voi-proxychain/
+
+
+#http://www.hackingarticles.in/4-ways-connect-remote-pc-using-smb-port/
+https://blog.rapid7.com/2013/03/09/psexec-demystified/
+https://www.offensive-security.com/metasploit-unleashed/psexec-pass-hash/
+https://www.securusglobal.com/community/2013/12/20/dumping-windows-credentials/
+https://articles.forensicfocus.com/2014/04/28/windows-logon-password-get-windows-logon-password-using-wdigest-in-memory-dump/
