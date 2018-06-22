@@ -41,3 +41,7 @@ https://www.offensive-security.com/metasploit-unleashed/psexec-pass-hash/
 https://www.securusglobal.com/community/2013/12/20/dumping-windows-credentials/
 https://articles.forensicfocus.com/2014/04/28/windows-logon-password-get-windows-logon-password-using-wdigest-in-memory-dump/
 https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.howtogeek.com%2F112110%2Fhow-to-set-a-custom-logon-screen-background-on-windows-7%2F&h=AT2yqVvlIczL6v-ABgcKq52zq1mELFQGzMQuewzu1dM9ovQQ8Q0G2ZkkViknXI9gZ-kTcwmqHE_5HUc2ua9Uf706CmwARzJ4WdhUyZmEcvqyAqfAoe4XfU5zGosNSc1KKMSkAg
+
+#23
+https://stackoverflow.com/questions/30577729/unable-to-ssh-into-remote-linux-by-ngrok
+https://stackoverflow.com/questions/25522360/ngrok-configure-multiple-port-in-same-domain
