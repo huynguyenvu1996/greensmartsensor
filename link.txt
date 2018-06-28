@@ -45,3 +45,9 @@ https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.howtogeek.com%2F112110%2Fhow-to
 #23
 https://stackoverflow.com/questions/30577729/unable-to-ssh-into-remote-linux-by-ngrok
 https://stackoverflow.com/questions/25522360/ngrok-configure-multiple-port-in-same-domain
+
+#28-06-2018
+https://daynhauhoc.com/t/cach-truyen-tham-so-dang-args-va-kwargs-trong-python/7115
+https://docs.djangoproject.com/en/2.0/ref/class-based-views/generic-display/
+https://omarine.org/2018/01/24/lap-trinh-web-python-django-chuong-trinh-tham-do-y-kien-phan-3/
+https://docs.djangoproject.com/en/2.0/ref/class-based-views/mixins-multiple-object/
