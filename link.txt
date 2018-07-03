@@ -51,3 +51,4 @@ https://daynhauhoc.com/t/cach-truyen-tham-so-dang-args-va-kwargs-trong-python/71
 https://docs.djangoproject.com/en/2.0/ref/class-based-views/generic-display/
 https://omarine.org/2018/01/24/lap-trinh-web-python-django-chuong-trinh-tham-do-y-kien-phan-3/
 https://docs.djangoproject.com/en/2.0/ref/class-based-views/mixins-multiple-object/
+https://docs.djangoproject.com/en/2.0/howto/custom-template-tags/
