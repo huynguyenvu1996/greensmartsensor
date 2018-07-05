@@ -53,3 +53,5 @@ https://omarine.org/2018/01/24/lap-trinh-web-python-django-chuong-trinh-tham-do-
 https://docs.djangoproject.com/en/2.0/ref/class-based-views/mixins-multiple-object/
 https://docs.djangoproject.com/en/2.0/howto/custom-template-tags/
 https://stackoverflow.com/questions/27163702/how-do-i-inspectdb-1-table-from-database-which-contains-1000-tables
+#05-07-2018
+https://medium.com/@doanhtu/h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-h%E1%BB%8Dc-django-ph%E1%BA%A7n-ii-models-api-v%C3%A0-admin-7dff23bf4306
