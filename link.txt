@@ -52,3 +52,4 @@ https://docs.djangoproject.com/en/2.0/ref/class-based-views/generic-display/
 https://omarine.org/2018/01/24/lap-trinh-web-python-django-chuong-trinh-tham-do-y-kien-phan-3/
 https://docs.djangoproject.com/en/2.0/ref/class-based-views/mixins-multiple-object/
 https://docs.djangoproject.com/en/2.0/howto/custom-template-tags/
+https://stackoverflow.com/questions/27163702/how-do-i-inspectdb-1-table-from-database-which-contains-1000-tables
