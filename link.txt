@@ -56,3 +56,4 @@ https://stackoverflow.com/questions/27163702/how-do-i-inspectdb-1-table-from-dat
 #05-07-2018
 https://medium.com/@doanhtu/h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-h%E1%BB%8Dc-django-ph%E1%BA%A7n-ii-models-api-v%C3%A0-admin-7dff23bf4306
 https://stackoverflow.com/questions/12386593/whats-wrong-with-my
+#https://stackoverflow.com/questions/1518286/django-use-reverse-url-mapping-in-settings
