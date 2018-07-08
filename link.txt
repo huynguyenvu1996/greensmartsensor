@@ -59,3 +59,4 @@ https://stackoverflow.com/questions/12386593/whats-wrong-with-my
 #https://stackoverflow.com/questions/1518286/django-use-reverse-url-mapping-in-settings
 #https://kipalog.com/posts/cung-xoan-nao-voi-cac-thuoc-tinh-position--z-index--background-attachment--object-fit
 #https://kipalog.com/posts/Ngon-ngu-lap-trinh-luu-tru-bien-nhu-the-nao--pointer--reference-va-address
+#chrome://net-internals/#events
