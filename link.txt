@@ -60,3 +60,9 @@ https://stackoverflow.com/questions/12386593/whats-wrong-with-my
 #https://kipalog.com/posts/cung-xoan-nao-voi-cac-thuoc-tinh-position--z-index--background-attachment--object-fit
 #https://kipalog.com/posts/Ngon-ngu-lap-trinh-luu-tru-bien-nhu-the-nao--pointer--reference-va-address
 #chrome://net-internals/#events
+
+#06-08-2018
+https://docs.nginx.com/nginx/admin-guide/web-server/serving-static-content/
+https://stackoverflow.com/questions/10631933/nginx-static-file-serving-confusion-with-root-alias
+https://jsfiddle.net/px0e3Lct/1/
+https://stackoverflow.com/questions/46841570/sweetalert2-ajax-post-input-data
