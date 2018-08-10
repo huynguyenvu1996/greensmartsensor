@@ -66,3 +66,4 @@ https://docs.nginx.com/nginx/admin-guide/web-server/serving-static-content/
 https://stackoverflow.com/questions/10631933/nginx-static-file-serving-confusion-with-root-alias
 https://jsfiddle.net/px0e3Lct/1/
 https://stackoverflow.com/questions/46841570/sweetalert2-ajax-post-input-data
+https://stackoverflow.com/questions/48035310/open-a-vuetify-dialog-from-a-component-template-in-vuejs?rq=1
