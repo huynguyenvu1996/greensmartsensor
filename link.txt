@@ -71,3 +71,12 @@ https://stackoverflow.com/questions/48035310/open-a-vuetify-dialog-from-a-compon
 https://stackoverflow.com/questions/39274457/is-it-possible-to-use-the-youtube-live-stream-api-to-broadcast-through-my-phone
 https://stackoverflow.com/questions/36056948/is-youtube-data-api-totally-free
 https://stackoverflow.com/questions/15568405/youtube-api-limitations
+
+#04-09-2018
+https://stackoverflow.com/questions/51430664/django-how-to-check-if-server-is-running-in-asgi-or-in-wsgi-mode
+https://github.com/django/daphne
+https://flashphoner.com/7-ways-to-stream-rtsp-on-the-page/
+https://stackoverflow.com/questions/49104244/node-js-rtsp-to-hls-or-http-using-node-js
+https://stackoverflow.com/questions/45555960/nodejs-fluent-ffmpeg-cannot-find-ffmpeg
+https://kipalog.com/posts/Chong-download-file-video-tren-web-co-ban-bang-HLS--ket-hop-voi-Laravel
+https://viblo.asia/p/webrtc-phan-1-E375zEPdlGW
