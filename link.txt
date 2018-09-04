@@ -82,3 +82,4 @@ https://kipalog.com/posts/Chong-download-file-video-tren-web-co-ban-bang-HLS--ke
 https://viblo.asia/p/webrtc-phan-1-E375zEPdlGW
 https://medium.freecodecamp.org/node-js-streams-everything-you-need-to-know-c9141306be93
 https://flashphoner.com/ios-safari-11-now-supports-webrtc/
+https://flashphoner.com/embedding-a-webrtc-player-for-live-broadcasts-to-a-website/
