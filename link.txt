@@ -90,3 +90,4 @@ https://flashphoner.com/browser-based-webrtc-stream-from-rtsp-ip-camera-with-low
 https://stackoverflow.com/questions/31635275/what-is-rtsp-and-webrtc-for-streaming
 https://nodejs.vn/topic/623/camera-streaming-v%E1%BB%9Bi-nodejs/12
 https://sotatek.com/blog/nodejs-hieu-asynchronous-event-drivent-nonblocking-io/
+https://viblo.asia/p/javascript-arrow-function-nhap-mon-4P856jG35Y3
