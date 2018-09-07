@@ -92,3 +92,4 @@ https://nodejs.vn/topic/623/camera-streaming-v%E1%BB%9Bi-nodejs/12
 https://sotatek.com/blog/nodejs-hieu-asynchronous-event-drivent-nonblocking-io/
 https://viblo.asia/p/javascript-arrow-function-nhap-mon-4P856jG35Y3
 https://stackoverflow.com/questions/42117637/error-creating-live-broadcast-nodejs-libs
+https://kipalog.com/posts/Luan-ban-ve--Generators--Coroutines--Native-Coroutines-va-async-await-trong-python-
