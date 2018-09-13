@@ -101,3 +101,4 @@ https://www.google.com.vn/search?hl=vi&ei=c5-XW__BH8SpoASU-I_IBw&q=dlib+face+rec
 https://medium.com/@Alibaba_Cloud/facial-recognition-and-swapping-5dfd9fd4c4ab
 https://viblo.asia/p/machine-learning-that-thu-vi-3-tim-kiem-anh-chua-chim-voi-cnn-vyDZOX1xlwj#_buoc-2-truyen-moi-manh-anh-vao-mang-noron-nho-9
 https://arxiv.org/pdf/1511.02799.pdf
+https://stackoverflow.com/questions/6147203/automating-running-command-on-linux-from-windows-using-putty
