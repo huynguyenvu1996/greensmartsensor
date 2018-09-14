@@ -107,3 +107,4 @@ https://medium.com/@ssaurel/creating-a-lock-screen-device-app-for-android-4ec657
 https://www.reddit.com/r/learnprogramming/comments/2ccmi6/androidtutorial_simple_lockscreen_tutorial/
 https://stackoverflow.com/questions/31066821/unlock-the-screen-programmatically
 https://blog.daovanhung.com/post/event-loop-trong-nodejs
+https://viblo.asia/p/javascript-single-thread-lieu-da-loi-thoi-gAm5yxwkldb
