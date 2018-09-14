@@ -108,3 +108,5 @@ https://www.reddit.com/r/learnprogramming/comments/2ccmi6/androidtutorial_simple
 https://stackoverflow.com/questions/31066821/unlock-the-screen-programmatically
 https://blog.daovanhung.com/post/event-loop-trong-nodejs
 https://viblo.asia/p/javascript-single-thread-lieu-da-loi-thoi-gAm5yxwkldb
+https://kipalog.com/posts/Pass-by-reference-va-pass-by-value
+https://kipalog.com/posts/Gioi-thieu-ve-thread-tu-phan-cung-ra-phan-mem
