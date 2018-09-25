@@ -111,3 +111,4 @@ https://viblo.asia/p/javascript-single-thread-lieu-da-loi-thoi-gAm5yxwkldb
 https://kipalog.com/posts/Pass-by-reference-va-pass-by-value
 https://kipalog.com/posts/Gioi-thieu-ve-thread-tu-phan-cung-ra-phan-mem
 https://medium.com/@tkssharma/authentication-using-passport-js-social-auth-with-node-js-1e1ec7086ded
+http://admobvn.blogspot.com/2015/08/kiem-tien-tu-ung-dung-android-chon-mang.html
