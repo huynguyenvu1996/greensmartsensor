@@ -116,3 +116,5 @@ http://www.droidviet.com/forum/tin-tuc-thac-mac/31248-thac-mac-ve-thu-nhap-tu-ad
 
 #27-09-2018
 https://django.readthedocs.io/en/1.9.x/ref/models/querysets.html#django.db.models.query.QuerySet.extra
+https://github.com/axios/axios/issues/475
+https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
