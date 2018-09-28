@@ -118,3 +118,6 @@ http://www.droidviet.com/forum/tin-tuc-thac-mac/31248-thac-mac-ve-thu-nhap-tu-ad
 https://django.readthedocs.io/en/1.9.x/ref/models/querysets.html#django.db.models.query.QuerySet.extra
 https://github.com/axios/axios/issues/475
 https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+https://medium.freecodecamp.org/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52
+http://engineering.vtvcab.vn/viet-api-bang-expressjs-theo-phuong-thuc-rest/
+https://quangich.com/blog-lap-trinh/10-cach-tot-nhat-de-viet-cac-rest-api-nodejs-c23-56.aspx
