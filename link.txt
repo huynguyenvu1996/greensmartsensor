@@ -121,3 +121,4 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
 https://medium.freecodecamp.org/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52
 http://engineering.vtvcab.vn/viet-api-bang-expressjs-theo-phuong-thuc-rest/
 https://quangich.com/blog-lap-trinh/10-cach-tot-nhat-de-viet-cac-rest-api-nodejs-c23-56.aspx
+https://lengochoa.com/huong-dan-cach-rut-tien-tu-thu-nhap-tren-kenh-youtube/
