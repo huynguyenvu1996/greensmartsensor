@@ -124,3 +124,8 @@ https://quangich.com/blog-lap-trinh/10-cach-tot-nhat-de-viet-cac-rest-api-nodejs
 https://lengochoa.com/huong-dan-cach-rut-tien-tu-thu-nhap-tren-kenh-youtube/
 https://auth0.com/blog/vuejs2-authentication-tutorial/
 https://viblo.asia/p/hay-su-dung-eslint-cho-du-an-cua-ban-bJzKm07O59N
+https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-redis-on-ubuntu-16-04
+https://solarianprogrammer.com/2017/06/30/building-python-ubuntu-wsl-debian/
+https://www.ostechnix.com/build-packages-source-using-checkinstall/
+https://gist.github.com/mattseymour/08456b01c467859fba625ba5711fa08e
+https://unix.stackexchange.com/questions/435447/how-to-install-nvidia-run-on-mint-18-3
