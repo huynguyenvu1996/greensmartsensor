@@ -131,3 +131,4 @@ https://gist.github.com/mattseymour/08456b01c467859fba625ba5711fa08e
 https://unix.stackexchange.com/questions/435447/how-to-install-nvidia-run-on-mint-18-3
 http://pepa.holla.cz/wp-content/uploads/2016/01/Express.js-Guide.pdf
 https://www.pugetsystems.com/labs/hpc/How-to-install-CUDA-9-2-on-Ubuntu-18-04-1184/
+https://www.wrightfully.com/part-1-of-writing-your-own-net-based-installer-with-wix-overview/
