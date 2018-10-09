@@ -142,3 +142,4 @@ https://stackoverflow.com/questions/1297773/check-java-is-present-before-install
 https://www.firegiant.com/wix/tutorial/getting-started/the-files-inside/
 https://www.firegiant.com/wix/tutorial/getting-started/the-software-package/
 https://stackoverflow.com/questions/12624436/wix-installer-does-not-work-on-vs-2012
+https://www.youtube.com/watch?v=yHKrVvMYH6E
