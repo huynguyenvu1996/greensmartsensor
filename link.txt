@@ -132,3 +132,12 @@ https://unix.stackexchange.com/questions/435447/how-to-install-nvidia-run-on-min
 http://pepa.holla.cz/wp-content/uploads/2016/01/Express.js-Guide.pdf
 https://www.pugetsystems.com/labs/hpc/How-to-install-CUDA-9-2-on-Ubuntu-18-04-1184/
 https://www.wrightfully.com/part-1-of-writing-your-own-net-based-installer-with-wix-overview/
+
+#09/10/2018
+https://stackoverflow.com/questions/14637671/wix-setup-projects-exe-app-cant-run-on-your-pc
+https://www.youtube.com/watch?v=s9oqh4FrAKo
+https://the-eye.eu/public/Books/IT%20Various/wix_3.6_a_developers_guide_to_windows_installer_xml.pdf
+https://documentation.help/Inno-Setup/documentation.pdf
+https://stackoverflow.com/questions/1297773/check-java-is-present-before-installing
+https://www.firegiant.com/wix/tutorial/getting-started/the-files-inside/
+https://www.firegiant.com/wix/tutorial/getting-started/the-software-package/
