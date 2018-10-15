@@ -146,3 +146,6 @@ https://www.youtube.com/watch?v=yHKrVvMYH6E
 https://serverfault.com/questions/525206/squid-transparent-proxy-connected-to-another-proxy
 https://stackoverflow.com/questions/47089499/inno-setup-add-checkbox-and-download-files-when-checked
 https://stackoverflow.com/questions/51541258/flutter-login-through-a-webview
+https://techtalk.vn/golang-thuc-su-tot-trong-truong-hop-nao.html
+https://kipalog.com/posts/Rust-la-gi--Co-an-duoc-khong
+https://techmaster.vn/posts/34377/phan-phoi-chuc-nang-trong-nodejs-su-dung-cluster-module
