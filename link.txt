@@ -149,3 +149,4 @@ https://stackoverflow.com/questions/51541258/flutter-login-through-a-webview
 https://techtalk.vn/golang-thuc-su-tot-trong-truong-hop-nao.html
 https://kipalog.com/posts/Rust-la-gi--Co-an-duoc-khong
 https://techmaster.vn/posts/34377/phan-phoi-chuc-nang-trong-nodejs-su-dung-cluster-module
+https://stackoverflow.com/questions/4833831/inno-setup-32bit-and-64bit-in-one
