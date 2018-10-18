@@ -155,3 +155,4 @@ https://stackoverflow.com/questions/21390130/inno-setup-pascal-script-to-search-
 https://www.itechtics.com/windows-10-version-1709-language-packs-direct-download-links/#English_8211_USA
 https://stackoverflow.com/questions/29275022/inno-setup-how-to-make-a-change-option-on-uninstall-or-change-a-program
 https://stackoverflow.com/questions/37729583/how-to-change-inno-setup-displayname-uninstall-entry
+https://stackoverflow.com/questions/18625533/change-the-default-name-of-an-inno-setup-uninstaller-to-avoid-naming-conflicts/18627147
