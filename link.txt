@@ -151,3 +151,4 @@ https://kipalog.com/posts/Rust-la-gi--Co-an-duoc-khong
 https://techmaster.vn/posts/34377/phan-phoi-chuc-nang-trong-nodejs-su-dung-cluster-module
 https://stackoverflow.com/questions/4833831/inno-setup-32bit-and-64bit-in-one
 https://stackoverflow.com/questions/41677819/writing-32-64-bit-specific-registry-key-at-the-end-of-the-installation-in-inno-s
+https://stackoverflow.com/questions/21390130/inno-setup-pascal-script-to-search-for-running-process
