@@ -157,3 +157,4 @@ https://stackoverflow.com/questions/29275022/inno-setup-how-to-make-a-change-opt
 https://stackoverflow.com/questions/37729583/how-to-change-inno-setup-displayname-uninstall-entry
 https://stackoverflow.com/questions/18625533/change-the-default-name-of-an-inno-setup-uninstaller-to-avoid-naming-conflicts/18627147
 https://stackoverflow.com/questions/16553921/add-a-check-box-to-not-add-the-start-menu-icons
+https://stackoverflow.com/questions/3493416/how-to-run-a-file-before-setup-with-inno-setup
