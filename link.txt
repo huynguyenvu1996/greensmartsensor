@@ -154,3 +154,4 @@ https://stackoverflow.com/questions/41677819/writing-32-64-bit-specific-registry
 https://stackoverflow.com/questions/21390130/inno-setup-pascal-script-to-search-for-running-process
 https://www.itechtics.com/windows-10-version-1709-language-packs-direct-download-links/#English_8211_USA
 https://stackoverflow.com/questions/29275022/inno-setup-how-to-make-a-change-option-on-uninstall-or-change-a-program
+https://stackoverflow.com/questions/37729583/how-to-change-inno-setup-displayname-uninstall-entry
