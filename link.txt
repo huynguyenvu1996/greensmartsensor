@@ -160,6 +160,8 @@ https://stackoverflow.com/questions/16553921/add-a-check-box-to-not-add-the-star
 https://stackoverflow.com/questions/3493416/how-to-run-a-file-before-setup-with-inno-setup
 https://stackoverflow.com/questions/3493416/how-to-run-a-file-before-setup-with-inno-setup
 https://stackoverflow.com/questions/41267519/inno-setup-install-files-in-different-folder-if-the-privileges-is-not-administra
+https://stackoverflow.com/questions/30374498/how-to-include-a-script-file-whose-name-is-read-from-the-ini-file
+
 
 #18/10/2018
 https://linuxhint.com/proxychains-tutorial/
