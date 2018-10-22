@@ -166,3 +166,5 @@ https://stackoverflow.com/questions/30374498/how-to-include-a-script-file-whose-
 #18/10/2018
 https://linuxhint.com/proxychains-tutorial/
 http://anyproxy.io/en/
+https://www.youtube.com/watch?v=_KHCHiH2RZ0
+https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javapackager.html
