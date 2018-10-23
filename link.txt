@@ -168,3 +168,10 @@ https://linuxhint.com/proxychains-tutorial/
 http://anyproxy.io/en/
 https://www.youtube.com/watch?v=_KHCHiH2RZ0
 https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javapackager.html
+
+https://docs.oracle.com/javafx/2/api/javafx/fxml/doc-files/introduction_to_fxml.html#controllers
+http://tutorials.jenkov.com/javafx/flowpane.html
+https://github.com/flutter/flutter/issues/9253#issuecomment-292234248
+https://github.com/flutter/flutter/issues/19390
+https://kenhlaptrinh.net/chia-se-bo-tai-lieu-lap-trinh-javafx/
+https://kenhlaptrinh.net/huong-dan-su-dung-togglebutton-trong-javafx/
