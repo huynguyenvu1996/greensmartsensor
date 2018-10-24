@@ -175,3 +175,9 @@ https://github.com/flutter/flutter/issues/9253#issuecomment-292234248
 https://github.com/flutter/flutter/issues/19390
 https://kenhlaptrinh.net/chia-se-bo-tai-lieu-lap-trinh-javafx/
 https://kenhlaptrinh.net/huong-dan-su-dung-togglebutton-trong-javafx/
+
+https://code.tutsplus.com/vi/tutorials/getting-started-with-retrofit-2--cms-27792
+https://medium.com/@prakash_pun/retrofit-a-simple-android-tutorial-48437e4e5a23
+https://www.mkyong.com/java/how-to-get-current-timestamps-in-java/
+https://stackoverflow.com/questions/32806068/how-to-change-fxml-lable-text-by-id
+http://www.vogella.com/tutorials/Retrofit/article.html
