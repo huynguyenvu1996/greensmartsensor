@@ -181,3 +181,11 @@ https://medium.com/@prakash_pun/retrofit-a-simple-android-tutorial-48437e4e5a23
 https://www.mkyong.com/java/how-to-get-current-timestamps-in-java/
 https://stackoverflow.com/questions/32806068/how-to-change-fxml-lable-text-by-id
 http://www.vogella.com/tutorials/Retrofit/article.html
+
+
+https://stackoverflow.com/questions/17850191/why-am-i-getting-java-lang-illegalstateexception-not-on-fx-application-thread
+https://docs.oracle.com/javase/10/docs/api/javafx/scene/doc-files/cssref.html
+https://o7planning.org/vi/11529/huong-dan-javafx-alert-dialog
+https://tinhte.vn/threads/hackintosh-huong-dan-cai-dat-niresh-macos-sierra-tren-pc-laptop-chay-windows.2733209/
+https://forex365.vn/hackintosh-huong-dan-cai-dat-mac-os-len-pc-laptop
+https://stackoverflow.com/questions/10143392/javafx-2-and-internationalization
