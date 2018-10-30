@@ -191,3 +191,12 @@ https://forex365.vn/hackintosh-huong-dan-cai-dat-mac-os-len-pc-laptop
 https://stackoverflow.com/questions/10143392/javafx-2-and-internationalization
 https://unix.stackexchange.com/questions/45916/what-is-the-relation-between-display-1-0-and-port-5901
 https://unix.stackexchange.com/questions/208465/problem-accessing-server-with-vnc
+
+
+#Hackintosh
+https://docngaydi.tinsinhphuc.com/cai-dat-macos-len-laptop-va-khoi-dong-song-song-voi-windows.html
+https://docngaydi.tinsinhphuc.com/bai-4-cac-phuong-phap-phan-chia-va-quan-ly-hdd-ssd.html/2
+https://docngaydi.tinsinhphuc.com/bai-3-pclaptop-intel-va-macos-viethackintosh-ebook.html/4
+https://docngaydi.tinsinhphuc.com/hackintosh-ebook-cai-dat-kext-cho-mac-os-cua-ban.html
+https://askubuntu.com/questions/1029581/convert-ubuntu-18-04-mbr-to-uefi-boot
+https://askubuntu.com/questions/84501/how-can-i-change-convert-a-ubuntu-mbr-drive-to-a-gpt-and-make-ubuntu-boot-from
