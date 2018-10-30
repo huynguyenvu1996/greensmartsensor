@@ -189,3 +189,5 @@ https://o7planning.org/vi/11529/huong-dan-javafx-alert-dialog
 https://tinhte.vn/threads/hackintosh-huong-dan-cai-dat-niresh-macos-sierra-tren-pc-laptop-chay-windows.2733209/
 https://forex365.vn/hackintosh-huong-dan-cai-dat-mac-os-len-pc-laptop
 https://stackoverflow.com/questions/10143392/javafx-2-and-internationalization
+https://unix.stackexchange.com/questions/45916/what-is-the-relation-between-display-1-0-and-port-5901
+https://unix.stackexchange.com/questions/208465/problem-accessing-server-with-vnc
