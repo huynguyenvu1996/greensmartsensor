@@ -200,3 +200,6 @@ https://docngaydi.tinsinhphuc.com/bai-3-pclaptop-intel-va-macos-viethackintosh-e
 https://docngaydi.tinsinhphuc.com/hackintosh-ebook-cai-dat-kext-cho-mac-os-cua-ban.html
 https://askubuntu.com/questions/1029581/convert-ubuntu-18-04-mbr-to-uefi-boot
 https://askubuntu.com/questions/84501/how-can-i-change-convert-a-ubuntu-mbr-drive-to-a-gpt-and-make-ubuntu-boot-from
+
+
+https://ubuntuforums.org/showthread.php?t=2383292
