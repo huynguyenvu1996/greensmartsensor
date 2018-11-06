@@ -207,3 +207,12 @@ https://www.youtube.com/watch?v=HPX-1YwgW8Q
 https://www.youtube.com/watch?v=HPX-1YwgW8Q
 https://www.youtube.com/watch?v=Zb1dmdOGlZQ&t=1s
 https://tinhte.vn/threads/quy-trinh-san-xuat-cpu-22nm-cua-intel-con-duong-tu-cat-tro-thanh-vi-xu-li.2110182/
+
+
+https://github.com/acidanthera/WhateverGreen
+https://www.tonymacx86.com/threads/high-sierra-but-even-sierra-black-screen-after-wake-amd.233478/
+https://github.com/acidanthera/Lilu/releases
+https://www.insanelymac.com/forum/topic/291117-how-to-make-radeon-desktop-or-mobility-be-working-by-using-clover/?page=2
+https://www.tonymacx86.com/threads/guide-patching-dsdt-ssdt-for-laptop-backlight-control.152659/
+https://www.tonymacx86.com/threads/guide-patching-laptop-dsdt-ssdts.152573/
+
