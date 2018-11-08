@@ -216,3 +216,8 @@ https://www.insanelymac.com/forum/topic/291117-how-to-make-radeon-desktop-or-mob
 https://www.tonymacx86.com/threads/guide-patching-dsdt-ssdt-for-laptop-backlight-control.152659/
 https://www.tonymacx86.com/threads/guide-patching-laptop-dsdt-ssdts.152573/
 
+#08/11/2018
+https://viblo.asia/p/javascript-single-thread-lieu-da-loi-thoi-gAm5yxwkldb
+https://techmaster.vn/posts/34377/phan-phoi-chuc-nang-trong-nodejs-su-dung-cluster-module
+https://medium.com/iquii/good-practices-for-high-performance-and-scalable-node-js-applications-part-1-3-bb06b6204197
+https://webmasters.stackexchange.com/questions/10927/using-multiple-a-records-for-my-domain-do-web-browsers-ever-try-more-than-one
