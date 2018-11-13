@@ -222,6 +222,8 @@ https://techmaster.vn/posts/34377/phan-phoi-chuc-nang-trong-nodejs-su-dung-clust
 https://medium.com/iquii/good-practices-for-high-performance-and-scalable-node-js-applications-part-1-3-bb06b6204197
 https://webmasters.stackexchange.com/questions/10927/using-multiple-a-records-for-my-domain-do-web-browsers-ever-try-more-than-one
 
+https://www.tonymacx86.com/threads/guide-patching-dsdt-ssdt-for-laptop-backlight-control.152659/
+
 #09/11/2018
 https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514
 https://www.slideshare.net/BartoszKosarzycki/introduction-to-flutter-truly-crossplatform-amazingly-fast
