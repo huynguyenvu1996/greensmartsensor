@@ -230,3 +230,5 @@ https://www.slideshare.net/BartoszKosarzycki/introduction-to-flutter-truly-cross
 https://www.google.com.vn/search?q=architecture+flutter&rlz=1C1GCEU_enVN821VN821&tbm=isch&source=iu&ictx=1&fir=eZEYfLU8wj8X7M%253A%252ClqYIGaqypG6RYM%252C_&usg=AI4_-kT1aTEVmbxR15RuaVthSeqeqC0F4g&sa=X&ved=2ahUKEwj_3cbVl8feAhUSEnIKHRQFDNMQ9QEwE3oECAUQCA#imgrc=4YIi_hsT8p0r8M:
 
 https://www.google.com.vn/search?ei=XHDrW6KjG9CsoASumI2wAg&q=subscribeOn+trong+rxjava&oq=subscribeOn+trong+rxjava&gs_l=psy-ab.3...2184.8045..8242...0.0..0.146.1606.0j13......0....1..gws-wiz.......0j0i71j0i67j0i203j0i20i263j0i22i30j33i160j33i21.w-hOfuny_TI
+https://viblo.asia/p/reactive-extensions-mot-vai-thu-quan-trong-truoc-khi-bat-dau-gDVK2keXZLj
+https://viblo.asia/p/introduce-rxjava-and-android-p1PvQ3pOMldr
