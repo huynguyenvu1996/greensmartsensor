@@ -232,3 +232,10 @@ https://www.google.com.vn/search?q=architecture+flutter&rlz=1C1GCEU_enVN821VN821
 https://www.google.com.vn/search?ei=XHDrW6KjG9CsoASumI2wAg&q=subscribeOn+trong+rxjava&oq=subscribeOn+trong+rxjava&gs_l=psy-ab.3...2184.8045..8242...0.0..0.146.1606.0j13......0....1..gws-wiz.......0j0i71j0i67j0i203j0i20i263j0i22i30j33i160j33i21.w-hOfuny_TI
 https://viblo.asia/p/reactive-extensions-mot-vai-thu-quan-trong-truoc-khi-bat-dau-gDVK2keXZLj
 https://viblo.asia/p/introduce-rxjava-and-android-p1PvQ3pOMldr
+
+
+
+https://stackoverflow.com/questions/50373700/openjdk-oracle-jdk-and-jcp
+https://medium.com/codefx-weekly/no-free-java-lts-version-b850192745fb
+https://medium.com/@javachampions/java-is-still-free-c02aef8c9e04
+https://www.reddit.com/r/sysadmin/comments/8tzjkg/confused_about_java_and_the_new_license/
