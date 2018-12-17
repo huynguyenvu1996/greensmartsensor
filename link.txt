@@ -239,3 +239,7 @@ https://stackoverflow.com/questions/50373700/openjdk-oracle-jdk-and-jcp
 https://medium.com/codefx-weekly/no-free-java-lts-version-b850192745fb
 https://medium.com/@javachampions/java-is-still-free-c02aef8c9e04
 https://www.reddit.com/r/sysadmin/comments/8tzjkg/confused_about_java_and_the_new_license/
+
+
+
+https://www.baeldung.com/java-download-file
