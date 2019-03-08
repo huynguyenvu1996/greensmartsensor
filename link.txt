@@ -250,3 +250,15 @@ https://viblo.asia/p/rxjava-rxandroid-co-ban-E375z0rjZGW
 https://codeburst.io/fractal-a-nodejs-app-structure-for-infinite-scale-d74dda57ee11
 https://tinhte.vn/threads/cong-dung-cua-nhung-loai-cam-bien-dang-duoc-trang-bi-tren-smartphone-hien-nay.2922828/
 https://viblo.asia/p/quan-ly-disposable-trong-rxjava2-924lJxV6KPM
+
+
+
+https://viblo.asia/p/rxjava-su-khac-biet-giua-flatmap-switchmap-concatmap-924lJrv8lPM
+https://viblo.asia/p/cung-hoc-rxjava-phan-3-core-operators-mrDkMrpzvzL
+http://reactivex.io/documentation/operators/flatmap.html
+https://www.baeldung.com/rxjava-multiple-subscribers-observable
+https://viblo.asia/p/cung-hoc-rxjava-phan-2-threading-concept-MgNeWWwXeYx
+https://viblo.asia/p/cung-tim-hieu-ve-rxjava-phan-1-QpmleBmk5rd
+https://viblo.asia/p/quan-ly-disposable-trong-rxjava2-924lJxV6KPM
+https://viblo.asia/p/map-va-flatmap-trong-rxjava-aWj53kvw56m
+https://viblo.asia/p/rxjava-rxandroid-co-ban-E375z0rjZGW#_iv-nhung-thanh-phan-quan-trong-trong-rxjava-4
