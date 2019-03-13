@@ -263,3 +263,7 @@ https://viblo.asia/p/quan-ly-disposable-trong-rxjava2-924lJxV6KPM
 https://viblo.asia/p/map-va-flatmap-trong-rxjava-aWj53kvw56m
 https://viblo.asia/p/rxjava-rxandroid-co-ban-E375z0rjZGW#_iv-nhung-thanh-phan-quan-trong-trong-rxjava-4
 https://viblo.asia/p/rxjs-nhap-mon-oaKYMN1zR83E
+https://viblo.asia/p/lam-chuc-nang-search-su-dung-rxjava-operator-YWOZreqPKQ0
+https://viblo.asia/p/co-ban-ve-rxandroid-phan-2-roavrJKBvRM
+https://futurestud.io/tutorials/retrofit-2-cancel-requests
+https://stackoverflow.com/questions/46042366/stop-rxjava-observable-chain-execution-on-disposing
