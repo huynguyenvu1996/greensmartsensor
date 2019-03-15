@@ -267,3 +267,4 @@ https://viblo.asia/p/lam-chuc-nang-search-su-dung-rxjava-operator-YWOZreqPKQ0
 https://viblo.asia/p/co-ban-ve-rxandroid-phan-2-roavrJKBvRM
 https://futurestud.io/tutorials/retrofit-2-cancel-requests
 https://stackoverflow.com/questions/46042366/stop-rxjava-observable-chain-execution-on-disposing
+https://stackoverflow.com/questions/42654209/rxjava-chaining-requests-and-updating-ui
