@@ -269,3 +269,4 @@ https://futurestud.io/tutorials/retrofit-2-cancel-requests
 https://stackoverflow.com/questions/46042366/stop-rxjava-observable-chain-execution-on-disposing
 https://stackoverflow.com/questions/42654209/rxjava-chaining-requests-and-updating-ui
 https://stackoverflow.com/questions/42654209/rxjava-chaining-requests-and-updating-ui
+https://viblo.asia/p/rxjs-nhap-mon-oaKYMN1zR83E
