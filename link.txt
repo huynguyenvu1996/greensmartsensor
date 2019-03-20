@@ -270,3 +270,4 @@ https://stackoverflow.com/questions/46042366/stop-rxjava-observable-chain-execut
 https://stackoverflow.com/questions/42654209/rxjava-chaining-requests-and-updating-ui
 https://stackoverflow.com/questions/42654209/rxjava-chaining-requests-and-updating-ui
 https://viblo.asia/p/rxjs-nhap-mon-oaKYMN1zR83E
+https://developer.mozilla.org/vi/docs/Web/JavaScript/Guide/Using_promises
