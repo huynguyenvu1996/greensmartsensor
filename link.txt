@@ -271,3 +271,4 @@ https://stackoverflow.com/questions/42654209/rxjava-chaining-requests-and-updati
 https://stackoverflow.com/questions/42654209/rxjava-chaining-requests-and-updating-ui
 https://viblo.asia/p/rxjs-nhap-mon-oaKYMN1zR83E
 https://developer.mozilla.org/vi/docs/Web/JavaScript/Guide/Using_promises
+https://auth0.com/blog/vuejs2-authentication-tutorial/
