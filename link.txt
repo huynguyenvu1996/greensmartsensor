@@ -275,3 +275,4 @@ https://auth0.com/blog/vuejs2-authentication-tutorial/
 https://www.baeldung.com/java-executor-wait-for-threads
 https://stackoverflow.com/questions/41892696/is-it-possible-to-show-progress-bar-when-download-via-retrofit-2-asynchronous
 https://www.codexpedia.com/android/android-download-large-file-using-retrofit-streaming/
+https://stackoverflow.com/questions/49975854/is-it-possible-to-use-multiple-baseurl-in-retrofit
