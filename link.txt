@@ -279,3 +279,4 @@ https://stackoverflow.com/questions/49975854/is-it-possible-to-use-multiple-base
 https://topdev.vn/blog/stream-processing-la-gi/?fbclid=IwAR1yyms0PsNZ-iI3thFDaoCwEyFXMiXbXuPLAXNsVdo7-UVw_HL-wmF46WA
 https://kipalog.com/posts/Background-job-va-queue-cho-nguoi-nong-dan?fbclid=IwAR0zrJ7vf8dbHdpqU5mNkCPm9FNpcHJYvu3pPzOd-XOIL6Zzz3_6rzQ55fk
 https://www.baeldung.com/java-executor-wait-for-threads
+https://tnquangblog.wordpress.com/
