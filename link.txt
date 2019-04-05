@@ -280,3 +280,8 @@ https://topdev.vn/blog/stream-processing-la-gi/?fbclid=IwAR1yyms0PsNZ-iI3thFDaoC
 https://kipalog.com/posts/Background-job-va-queue-cho-nguoi-nong-dan?fbclid=IwAR0zrJ7vf8dbHdpqU5mNkCPm9FNpcHJYvu3pPzOd-XOIL6Zzz3_6rzQ55fk
 https://www.baeldung.com/java-executor-wait-for-threads
 https://tnquangblog.wordpress.com/
+
+https://techmaster.vn/posts/33604/su-khac-nhau-giua-process-va-thread
+https://winterbe.com/posts/2015/04/30/java8-concurrency-tutorial-synchronized-locks-examples/?fbclid=IwAR1SQuaZ-wzoszIyYO4laDhnaM1dVPvbBNkRA7mSNGQ1QSxXw-54_S55vFc
+https://viblo.asia/p/thread-pools-trong-java-ZK1ov1DxG5b9
+https://stackoverflow.com/questions/39203791/how-to-use-compositedisposable-of-rxjava-2
