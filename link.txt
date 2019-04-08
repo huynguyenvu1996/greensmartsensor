@@ -286,3 +286,4 @@ https://winterbe.com/posts/2015/04/30/java8-concurrency-tutorial-synchronized-lo
 https://viblo.asia/p/thread-pools-trong-java-ZK1ov1DxG5b9
 https://stackoverflow.com/questions/39203791/how-to-use-compositedisposable-of-rxjava-2
 https://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/?fbclid=IwAR0FzFSp2OVBC1c5XEgjt5P0fr-UliGnV34JT4nPwqbFwZ7_LkVCvsFVgxE
+https://gpcoder.com/3514-dong-bo-hoa-cac-luong-trong-java/
