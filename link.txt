@@ -289,3 +289,4 @@ https://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/?fbclid=Iw
 https://gpcoder.com/3514-dong-bo-hoa-cac-luong-trong-java/
 http://gaut.am/making-an-ocr-android-app-using-tesseract/
 https://stackoverflow.com/questions/29984673/android-recognized-text-from-tess-two-library-is-wrong
+https://stackoverflow.com/questions/30554694/mvp-javafx-and-components-references
