@@ -292,3 +292,4 @@ https://stackoverflow.com/questions/29984673/android-recognized-text-from-tess-t
 https://stackoverflow.com/questions/30554694/mvp-javafx-and-components-references
 https://idesign.vn/graphic-design/lorem-ipsum-la-gi-8990.html
 https://stackoverflow.com/questions/46160485/how-to-handle-errors-from-multiple-then-in-catch-of-javascript-promises
+heuristic 
