@@ -293,3 +293,8 @@ https://stackoverflow.com/questions/30554694/mvp-javafx-and-components-reference
 https://idesign.vn/graphic-design/lorem-ipsum-la-gi-8990.html
 https://stackoverflow.com/questions/46160485/how-to-handle-errors-from-multiple-then-in-catch-of-javascript-promises
 heuristic 
+List<VirtualMachineDescriptor> vms = VirtualMachine.list();
+        System.out.println(this.getClass().getCanonicalName());
+        for(VirtualMachineDescriptor vm : vms){
+            System.out.println (vm.id());
+        }
