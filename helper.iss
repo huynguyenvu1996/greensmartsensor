@@ -67,3 +67,41 @@ begin
     Result := true;
   end;
 end;
+
+
+
+
+
+
+PrevFirstButtonClick: TNotifyEvent;
+procedure DirSelectButtonClick(Sender: TObject);
+var
+  PrevValue: string;
+begin
+  PrevValue := WizardForm.DirEdit.Text;
+
+  { Call remembered handler }
+  PrevFirstButtonClick(Sender);
+
+  if WizardForm.DirEdit.Text <> PrevValue then
+  begin
+    { And do whatever you want to do when the value changes }
+    MsgBox(Format('Value changed from "%s" to "%s".', [PrevValue, WizardForm.DirEdit.Text]),
+      mbInformation, MB_OK);
+  end;
+end;
+
+procedure CurPageChanged(CurPageID: Integer);
+begin
+  if(CurPageID = wpSelectDir) then
+  begin
+    { Remember the standard handler }
+    PrevFirstButtonClick := WizardForm.DirBrowseButton.OnClick;
+    { And assign our override }
+    // https://stackoverflow.com/questions/30728195/how-to-disable-browse-button-on-defaultdirectory-wizard-page   
+    WizardForm.DirBrowseButton.OnClick := @DirSelectButtonClick;
+  end
+end;
+
+
+
