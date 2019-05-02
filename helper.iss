@@ -70,9 +70,9 @@ end;
 
 
 
-
-
-
+// https://stackoverflow.com/questions/53797410/inno-setup-event-that-is-generated-when-folder-is-browsed-on-tinputdirwizardpage/53797691
+// https://stackoverflow.com/questions/52235006/how-to-force-inno-setup-to-set-the-installation-folder-dynamically-with-info-fro
+// https://stackoverflow.com/questions/30728195/how-to-disable-browse-button-on-defaultdirectory-wizard-page
 PrevFirstButtonClick: TNotifyEvent;
 procedure DirSelectButtonClick(Sender: TObject);
 var
