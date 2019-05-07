@@ -301,3 +301,4 @@ List<VirtualMachineDescriptor> vms = VirtualMachine.list();
         
 http://justfreethemes.com/demo/?theme=Alacrity%20Lite
 https://colorlib.com/wp/best-wordpress-business-themes/
+https://www.quora.com/HTTP-What-is-the-difference-between-GET-and-POST
