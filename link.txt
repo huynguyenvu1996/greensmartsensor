@@ -303,3 +303,23 @@ http://justfreethemes.com/demo/?theme=Alacrity%20Lite
 https://colorlib.com/wp/best-wordpress-business-themes/
 https://www.quora.com/HTTP-What-is-the-difference-between-GET-and-POST
 https://www.jfokus.se/jfokus18/preso/Building-Desktop-Applications-with-Electron.pdf
+public class Mydll
+    {
+        [DllExport(CallingConvention = CallingConvention.StdCall)]
+        public static void ConvertStringUTF8ToUTF16(
+            [MarshalAs(UnmanagedType.LPWStr)] string inputText,
+            [MarshalAs(UnmanagedType.LPWStr)] string outputPath)
+        {
+            File.WriteAllText(outputPath, inputText, Encoding.Unicode);
+        }
+    }
+procedure  ConvertStringUTF8ToUTF16(InputText: WideString; OutputFile: WideString);
+external 'ConvertStringUTF8ToUTF16@files:ConvertStringUTF8ToUTF16.dll stdcall setuponly';
+
+function ConvertUTF8ToUTF16(InputText: WideString; OutputFile: WideString): WideString;
+var str : WideString;
+begin
+    ConvertStringUTF8ToUTF16(InputText, OutputFile);
+    Log('InputText: ' + InputText);
+    Log('OutputFile: ' + OutputFile);
+end;    
