@@ -322,4 +322,11 @@ begin
     ConvertStringUTF8ToUTF16(InputText, OutputFile);
     Log('InputText: ' + InputText);
     Log('OutputFile: ' + OutputFile);
-end;    
+end;
+
+
+#03-06-2019
+https://stackoverflow.com/questions/32878478/how-to-download-file-in-android-using-retrofit-library
+https://www.codexpedia.com/android/android-download-large-file-using-retrofit-streaming/
+https://stackoverflow.com/questions/42118924/android-retrofit-download-progress
+https://stackoverflow.com/questions/49154069/why-is-doondispose-not-called
