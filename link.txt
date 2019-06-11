@@ -333,3 +333,5 @@ https://stackoverflow.com/questions/49154069/why-is-doondispose-not-called
 https://stackoverflow.com/questions/24562716/how-to-retry-http-requests-with-okhttp-retrofit
 https://stackoverflow.com/questions/41892696/is-it-possible-to-show-progress-bar-when-download-via-retrofit-2-asynchronous
 https://www.symantec.com/connect/articles/windows-system-error-codes-exit-codes-description
+https://github.com/JetBrains/intellij-community/tree/master/platform/util/src/com/intellij/openapi/util/io
+https://www.youtube.com/watch?v=0mhWAFhs7KQ
