@@ -335,3 +335,4 @@ https://stackoverflow.com/questions/41892696/is-it-possible-to-show-progress-bar
 https://www.symantec.com/connect/articles/windows-system-error-codes-exit-codes-description
 https://github.com/JetBrains/intellij-community/tree/master/platform/util/src/com/intellij/openapi/util/io
 https://www.youtube.com/watch?v=0mhWAFhs7KQ
+https://futurestud.io/tutorials/retrofit-2-how-to-trust-unsafe-ssl-certificates-self-signed-expired
