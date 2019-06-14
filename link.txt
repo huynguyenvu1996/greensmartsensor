@@ -339,3 +339,4 @@ https://futurestud.io/tutorials/retrofit-2-how-to-trust-unsafe-ssl-certificates-
 https://getstream.io/blog/takeaways-on-building-a-react-based-app-with-electron/
 https://viblo.asia/p/thiet-lap-ket-noi-an-toan-trong-android-7eEREJOgMgNj
 https://blogs.msdn.microsoft.com/davidrickard/2015/07/17/installing-net-framework-4-5-automatically-with-inno-setup/
+https://stackoverflow.com/questions/32483313/inno-setup-identifier-expected
