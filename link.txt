@@ -344,3 +344,4 @@ https://stackoverflow.com/questions/32483313/inno-setup-identifier-expected
 #17-06-2019
 https://stackoverflow.com/questions/31280653/what-is-nodeid-in-chrome-extension-chrome-debugger
 https://github.com/electron/electron/issues/9804
+https://stackoverflow.com/questions/37393248/how-connect-to-proxy-in-electron-webview
