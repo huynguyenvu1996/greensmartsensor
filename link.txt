@@ -346,3 +346,37 @@ https://stackoverflow.com/questions/31280653/what-is-nodeid-in-chrome-extension-
 https://github.com/electron/electron/issues/9804
 https://stackoverflow.com/questions/37393248/how-connect-to-proxy-in-electron-webview
 https://stackoverflow.com/questions/53366462/highlight-current-dom-element-in-chrome-extension-using-debuggerapi
+
+b = document.getElementById('webview')
+b.getWebContents().debugger.attach('1.3')
+await b.getWebContents().debugger.sendCommand('Input.dispatchMouseEvent',{type:'mouseReleased', x: 1100, y: 500, button: "left", clickCount: 1});
+await b.getWebContents().debugger.sendCommand('Input.dispatchMouseEvent',{type:'mousePressed', x: 1100, y: 500, button: "left", clickCount: 1});
+b.getWebContents().debugger.sendCommand('Overlay.disable');
+b.getWebContents().debugger.sendCommand('Overlay.setInspectMode',c);
+c = JSON.parse('{"highlightConfig":{"showInfo":true,"showRulers":false,"showStyles":false,"showExtensionLines":false,"contentColor":{"r":111,"g":168,"b":220,"a":0.66},"paddingColor":{"r":147,"g":196,"b":125,"a":0.55},"borderColor":{"r":255,"g":229,"b":153,"a":0.66},"marginColor":{"r":246,"g":178,"b":107,"a":0.66},"eventTargetColor":{"r":255,"g":196,"b":196,"a":0.66},"shapeColor":{"r":96,"g":82,"b":177,"a":0.8},"shapeMarginColor":{"r":96,"g":82,"b":127,"a":0.6},"cssGridColor":{"r":75,"g":0,"b":130}},"nodeId":14, "mode":"searchForNode"}');
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Hello World!</title>
+</head>
+
+<body style=" width:100vw;height:100vh;">
+    <div style="width:100%; height:100%">
+        <webview id="webview"  autosize="on" src="https://www.github.com/" style="width:100%; height:100%"></webview>
+    </div>
+    <script>
+        var webview = document.getElementById('webview');
+        webview.addEventListener('dom-ready', () => {
+            //webview.getWebContents().executeJavaScript(`var a = 'foo'; alert(a); Promise.resolve(a);`)
+            webview.executeJavaScript(`var a = 'foo'; alert(a); Promise.resolve({x: document.querySelector('body > div.application-main > main > div.py-6.py-sm-8.jumbotron-codelines > div > div > div.mx-auto.col-sm-8.col-md-6.hide-sm > div > form > button').getBoundingClientRect().x, y:document.querySelector('body > div.application-main > main > div.py-6.py-sm-8.jumbotron-codelines > div > div > div.mx-auto.col-sm-8.col-md-6.hide-sm > div > form > button').getBoundingClientRect().y});`)
+                .then((a) => console.log(a))
+                .catch((error) => console.log(error));
+            webview.inspectElement(0,0);
+        }); 
+    </script>
+</body>
+
+</html>
