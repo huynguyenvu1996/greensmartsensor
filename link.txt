@@ -380,3 +380,6 @@ c = JSON.parse('{"highlightConfig":{"showInfo":true,"showRulers":false,"showStyl
 </body>
 
 </html>
+
+https://stackoverflow.com/questions/54679249/build-executable-for-windows-with-vue-cli-plugin-electron-builder-in-linux
+https://www.youtube.com/watch?v=Fl7---SEORQ
