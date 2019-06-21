@@ -383,3 +383,9 @@ c = JSON.parse('{"highlightConfig":{"showInfo":true,"showRulers":false,"showStyl
 
 https://stackoverflow.com/questions/54679249/build-executable-for-windows-with-vue-cli-plugin-electron-builder-in-linux
 https://www.youtube.com/watch?v=Fl7---SEORQ
+
+
+#21-06-2019
+https://www.functionx.com/win32/controls/ProgressBars.htm
+https://stackoverflow.com/questions/12384314/cant-get-value-in-dll-function-when-pass-string-from-inno-to-dll
+https://stackoverflow.com/questions/9717068/using-zlib-with-unicode-file-paths-on-windows
