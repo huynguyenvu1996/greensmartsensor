@@ -390,3 +390,4 @@ https://www.functionx.com/win32/controls/ProgressBars.htm
 https://stackoverflow.com/questions/12384314/cant-get-value-in-dll-function-when-pass-string-from-inno-to-dll
 https://stackoverflow.com/questions/9717068/using-zlib-with-unicode-file-paths-on-windows
 https://www.thepolyglotdeveloper.com/2018/10/build-electron-applications-vuejs-webpack/
+https://stackoverflow.com/questions/44525863/creating-shortcut-in-user-start-menu-from-elevated-inno-setup-installer
