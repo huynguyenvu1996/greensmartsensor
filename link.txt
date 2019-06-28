@@ -392,3 +392,5 @@ https://stackoverflow.com/questions/9717068/using-zlib-with-unicode-file-paths-o
 https://www.thepolyglotdeveloper.com/2018/10/build-electron-applications-vuejs-webpack/
 https://stackoverflow.com/questions/44525863/creating-shortcut-in-user-start-menu-from-elevated-inno-setup-installer
 https://stackoverflow.com/questions/14385393/inno-setup-how-to-modify-long-running-script-so-it-will-not-freeze-gui
+https://stackoverflow.com/questions/31549393/vbscript-for-creating-a-scheduled-task
+https://stackoverflow.com/questions/54598475/inno-setup-change-an-existing-windows-scheduled-task-to-run-when-on-battery-powe
