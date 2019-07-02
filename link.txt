@@ -442,3 +442,4 @@ begin
   Trigger.Enabled := True;
   RootFolder.RegisterTaskDefinition(Name, TaskDefinition, 6, unassigned, unassigned, 3, '');
 end;
+https://superuser.com/questions/214400/some-taskbar-pinned-icons-are-duplicated-when-an-instance-of-the-application-is
