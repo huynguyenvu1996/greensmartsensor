@@ -394,3 +394,51 @@ https://stackoverflow.com/questions/44525863/creating-shortcut-in-user-start-men
 https://stackoverflow.com/questions/14385393/inno-setup-how-to-modify-long-running-script-so-it-will-not-freeze-gui
 https://stackoverflow.com/questions/31549393/vbscript-for-creating-a-scheduled-task
 https://stackoverflow.com/questions/54598475/inno-setup-change-an-existing-windows-scheduled-task-to-run-when-on-battery-powe
+
+
+https://stackoverflow.com/questions/45362452/delphi-itaskfolder-registertaskdefinition-not-working
+const
+  // TASK_TRIGGER_TYPE2
+  TASK_TRIGGER_EVENT := 0;
+  TASK_TRIGGER_TIME  := 1;
+  TASK_TRIGGER_DAILY := 2;
+  TASK_TRIGGER_WEEKLY := 3;
+  TASK_TRIGGER_MONTHLY := 4;
+  TASK_TRIGGER_MONTHLYDOW := 5;
+  TASK_TRIGGER_IDLE := 6;
+  TASK_TRIGGER_REGISTRATION := 7;
+  TASK_TRIGGER_BOOT := 8;
+  TASK_TRIGGER_LOGON := 9;
+  TASK_TRIGGER_SESSION_STATE_CHANGE := 11;
+
+  // TASK_RUNLEVEL_TYPE
+  TASK_RUNLEVEL_LUA := 0;
+  TASK_RUNLEVEL_HIGHEST := 1;
+
+function CreateTaskScheduler(Name, Description, Path, Arguments: String; Enabled: Boolean): Boolean;
+var
+  TaskService, RootFolder, TaskDefinition, A: Variant;
+begin
+  TaskService := CreateOleObject('Schedule.Service');
+  TaskService.Connect();
+  RootFolder := TaskService.GetFolder('\');
+  // The flags parameter is 0 because it is not used and reserved for future use
+  // http://msdn.microsoft.com/en-us/library/windows/desktop/aa383470%28v=vs.85%29.aspx
+  TaskDefinition := TaskService.NewTask(0);
+  TaskDefinition.RegistrationInfo.Description := Description;
+  TaskDefinition.Settings.Enabled := Enabled;
+  TaskDefinition.Settings.DisallowStartIfOnBatteries := False;
+  TaskDefinition.Settings.StopIfGoingOnBatteries := False;
+  TaskDefinition.Settings.WakeToRun := False;
+  TaskDefinition.Settings.RunOnlyIfIdle := False;
+  TaskDefinition.Settings.IdleSettings.StopOnIdleEnd := False;
+  TaskDefinition.Settings.IdleSettings.RestartOnIdle := False;
+  TaskDefinition.Settings.ExecutionTimeLimit := 'PT0S';
+  TaskDefinition.Principal.RunLevel := TASK_RUNLEVEL_HIGHEST;
+  Action := TaskDefinition.Actions.Create(0);
+  Action.Path := Path;
+  Action.Arguments := Arguments;
+  Trigger := TaskDefinition.Triggers.Create(TASK_TRIGGER_LOGON);
+  Trigger.Enabled := True;
+  RootFolder.RegisterTaskDefinition(Name, TaskDefinition, 6, unassigned, unassigned, 3, '');
+end;
