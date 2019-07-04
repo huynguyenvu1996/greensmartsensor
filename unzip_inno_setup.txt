@@ -1,0 +1,134 @@
+// archive.cpp : Defines the exported functions for the DLL application.
+//
+// https://stackoverflow.com/questions/18650985/using-callback-to-display-filenames-from-external-decompression-dll-inno-setup
+// https://stackoverflow.com/questions/3549977/problem-with-importing-dll-into-inno-setup
+// https://stackoverflow.com/questions/40712794/to-convert-a-ini-file-from-utf-8-encoding-to-ansi-during-installation
+
+#include "stdafx.h"
+#include "resource.h"
+#include <iostream>
+#include <bit7zlibrary.hpp>
+#include <bitextractor.hpp>
+#include <bitarchivehandler.hpp>
+
+using namespace std;
+using namespace bit7z;
+
+#define EXPORT __declspec(dllexport)
+typedef void(__stdcall *ExportProgressCallback)(int progress);
+typedef void(__stdcall *ExportFileCallback)(const char* filename);
+ExportProgressCallback progress_callback;
+ExportFileCallback file_callback;
+uint64_t global_total_size = 0;
+wstring files = L"";
+
+// https://stackoverflow.com/questions/42793735/how-to-convert-between-widecharacter-and-multi-byte-character-string-in-windows
+WCHAR* convert_to_wstring(const char* str)
+{
+	int str_len = (int)strlen(str);
+	int num_chars = MultiByteToWideChar(CP_UTF8, 0, str, str_len, NULL, 0);
+	WCHAR* wstrTo = (WCHAR*)malloc((num_chars + 1) * sizeof(WCHAR));
+	if (wstrTo)
+	{
+		MultiByteToWideChar(CP_UTF8, 0, str, str_len, wstrTo, num_chars);
+		wstrTo[num_chars] = L'\0';
+	}
+	return wstrTo;
+}
+
+CHAR* convert_from_wstring(const WCHAR* wstr)
+{
+	int wstr_len = (int)wcslen(wstr);
+	int num_chars = WideCharToMultiByte(CP_UTF8, 0, wstr, wstr_len, NULL, 0, NULL, NULL);
+	CHAR* strTo = (CHAR*)malloc((num_chars + 1) * sizeof(CHAR));
+	if (strTo)
+	{
+		WideCharToMultiByte(CP_UTF8, 0, wstr, wstr_len, strTo, num_chars, NULL, NULL);
+		strTo[num_chars] = '\0';
+	}
+	return strTo;
+}
+
+void Bit7zTotalCallback(uint64_t total_size) {
+	global_total_size = total_size;
+}
+
+void Bit7zProgressCallback(uint64_t progress_size) {
+	progress_callback(int(progress_size * 100 / global_total_size));
+}
+
+void Bit7zFileCallback(wstring filename) {
+	//char buffer[256];
+	//wcstombs(buffer, filename.c_str(), sizeof(buffer));
+	file_callback(convert_from_wstring(filename.c_str()));
+	files = files + filename;
+}
+
+
+
+// https://stackoverflow.com/questions/12384314/cant-get-value-in-dll-function-when-pass-string-from-inno-to-dll
+// https://stackoverflow.com/questions/3549977/problem-with-importing-dll-into-inno-setup
+// http://forums.codeguru.com/showthread.php?398233-Converting-wstring-to-char*
+EXPORT void __stdcall  _unzip(LPCWSTR input, LPCWSTR ouput, LPCWSTR dll, ExportProgressCallback pcb, ExportFileCallback fcb) {
+	/*MessageBox(
+		NULL,
+		input,
+		dll,
+		MB_ICONWARNING | MB_CANCELTRYCONTINUE | MB_DEFBUTTON2
+	);*/
+	Bit7zLibrary lib(wstring(dll) + L"\\7z.dll");
+	BitExtractor extractor(lib, BitFormat::Zip);
+	progress_callback = pcb;
+	file_callback = fcb;
+	extractor.setTotalCallback(Bit7zTotalCallback);
+	extractor.setProgressCallback(Bit7zProgressCallback);
+	extractor.setFileCallback(Bit7zFileCallback);
+	extractor.extract(input, ouput);
+	MessageBox(
+		NULL,
+		files.c_str(),
+		input,
+		MB_ICONWARNING | MB_CANCELTRYCONTINUE | MB_DEFBUTTON2
+	);
+}
+
+/*
+[Code]
+
+function MultiByteToWideChar(
+CodePage: UINT; dwFlags: DWORD; const lpMultiByteStr: AnsiString; cchMultiByte: Integer;
+lpWideCharStr: string; cchWideChar: Integer): Integer;
+external 'MultiByteToWideChar@kernel32.dll stdcall';
+
+const
+CP_ACP = 0;
+CP_UTF8 = 65001;
+
+procedure ProgressCallback(Progress:Integer);
+begin
+Log(IntToStr(Progress));
+end;
+
+procedure FileCallback(FileName:PAnsiChar);
+var
+U: string;
+Len: Integer;
+begin
+Len :=  MultiByteToWideChar(CP_UTF8, 0, FileName, Length(FileName), U, Len);
+SetLength(U, Len);
+MultiByteToWideChar(CP_UTF8, 0, FileName, Length(FileName), U, Len);
+Log(U);
+end;
+
+
+procedure Unzip(InputZip, OutputZip, dll: String; ProgressCallback, FileCallback: Longword);
+external '_unzip@files:archive.dll,7z.dll stdcall setuponly';
+
+procedure InitializeWizard;
+begin
+Unzip('D:\\haaaaa\\a.zip', 'D:\haaaaa\out', ExpandConstant('{tmp}'),CreateCallback(@ProgressCallback),CreateCallback(@FileCallback));
+end;
+*/
+
+
+
