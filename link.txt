@@ -447,3 +447,4 @@ https://stackoverflow.com/questions/18650985/using-callback-to-display-filenames
 https://stackoverflow.com/questions/20776847/returning-a-string-from-a-c-sharp-dll-with-unmanaged-exports-to-inno-setup-scrip
 https://stackoverflow.com/questions/9686455/how-to-return-a-string-from-a-dll-to-inno-setup?rq=1
 https://stackoverflow.com/questions/4929973/windows-api-for-dialing-a-network-connection
+https://techblog.vn/tong-quan-ve-jsx
